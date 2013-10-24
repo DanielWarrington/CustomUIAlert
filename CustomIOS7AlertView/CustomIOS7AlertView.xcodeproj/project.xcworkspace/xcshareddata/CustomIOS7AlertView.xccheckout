@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4DC5CF87-72A8-447B-B735-792BC60F2632</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomIOS7AlertView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F9FB66EA-3570-4BF2-8030-FE278B690909</key>
+		<string>https://github.com/wimagguc/ios-custom-alertview.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomIOS7AlertView/CustomIOS7AlertView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F9FB66EA-3570-4BF2-8030-FE278B690909</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wimagguc/ios-custom-alertview.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9FB66EA-3570-4BF2-8030-FE278B690909</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9FB66EA-3570-4BF2-8030-FE278B690909</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-custom-alertview</string>
+		</dict>
+	</array>
+</dict>
+</plist>
